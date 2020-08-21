@@ -1,0 +1,50 @@
+HELLO WORLD
+TRY EVERYDAY
+IM TEST
+~
+
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
+
+Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+
+Programs with command-line interfaces are generally easier to automate via scripting.
+
+Many software systems implement command line interfaces for control and operation. This includes programming
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
+
+Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+
+Programs with command-line interfaces are generally easier to automate via scripting.
+
+Many software systems implement command line interfaces for control and operation. This includes programming
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
+
+Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+
+Programs with command-line interfaces are generally easier to automate via scripting.
+
+Many software systems implement command line interfaces for control and operation. This includes programming
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
+
+Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+
+Programs with command-line interfaces are generally easier to automate via scripting.
+
+Many software systems implement command line interfaces for control and operation. This includes programming
+A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor. Operating systems implement a command-line interface in a shell for interactive access to operating system functions or services. Such access was primarily provided to users by computer terminals starting in the mid-1960s, and continued to be used throughout the 1970s and 1980s on VAX/VMS, Unix systems and personal computer systems including DOS, CP/M and Apple DOS.
+
+Today, many users rely upon graphical user interfaces and menu-driven interactions. However some programming and maintenance tasks may not have a graphical user interface and may still use a command line.
+
+Alternatives to the command line interface include text-based user interface menus (for example, IBM AIX SMIT), keyboard shortcuts, and various desktop metaphors centered on the pointer (usually controlled with a mouse). Examples of this include the Microsoft Windows, DOS Shell, and Mouse Systems PowerPanel. Command line interfaces are often implemented in terminal devices that are also capable of screen-oriented text-based user interfaces that use cursor addressing to place symbols on a display screen.
+
+Programs with command-line interfaces are generally easier to automate via scripting.
+
+Many software systems implement command line interfaces for control and operation. This includes programming
